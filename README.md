@@ -7,7 +7,7 @@ This is an early release version, and only test on { ubuntu 22.04; python3.10; s
 ## Install
 This tool is depends on the lm-sensors library, please install with:  
 ```bash
-# sudo apt install lm-sensors
+sudo apt install lm-sensors
 ```
 In addition, this tool also depends on python psutil package, please install with:
 ```
